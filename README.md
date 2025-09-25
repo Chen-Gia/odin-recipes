@@ -1,0 +1,1 @@
+With this project, I learned that Git is going to be the main challenge when it comes to project (not really since this html project was very basic)
